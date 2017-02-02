@@ -6,8 +6,8 @@ var player = AVS.Player;
 
 var avs = new AVS({
   debug: true,
-  clientId: 'amzn1.application-oa2-client.696ab90fc5844fdbb8efc17394a79c00',
-  deviceId: 'test_device',
+  clientId: 'amzn1.application-oa2-client.c8e7630f9a9148abb5012f72226ae580',
+  deviceId: 'capeannAlexa',
   deviceSerialNumber: 123,
   redirectUri: 'https://' + window.location.host + '/authresponse'
 });
